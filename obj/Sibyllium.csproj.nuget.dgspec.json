@@ -1,25 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\dotnet\\Sibyllium\\Sibyllium\\Sibyllium.csproj": {}
+    "C:\\Users\\gym-lokal\\Markus\\Sibyllium\\Sibyllium.csproj": {}
   },
   "projects": {
-    "D:\\Development\\dotnet\\Sibyllium\\Sibyllium\\Sibyllium.csproj": {
+    "C:\\Users\\gym-lokal\\Markus\\Sibyllium\\Sibyllium.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\dotnet\\Sibyllium\\Sibyllium\\Sibyllium.csproj",
+        "projectUniqueName": "C:\\Users\\gym-lokal\\Markus\\Sibyllium\\Sibyllium.csproj",
         "projectName": "Sibyllium",
-        "projectPath": "D:\\Development\\dotnet\\Sibyllium\\Sibyllium\\Sibyllium.csproj",
-        "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\dotnet\\Sibyllium\\Sibyllium\\obj\\",
+        "projectPath": "C:\\Users\\gym-lokal\\Markus\\Sibyllium\\Sibyllium.csproj",
+        "packagesPath": "C:\\Users\\gym-lokal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gym-lokal\\Markus\\Sibyllium\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gym-lokal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

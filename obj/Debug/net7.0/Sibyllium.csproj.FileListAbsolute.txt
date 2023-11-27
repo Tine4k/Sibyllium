@@ -1,0 +1,40 @@
+C:\Users\gym-lokal\Markus\Sibyllium\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\gym-lokal\Markus\Sibyllium\bin\Debug\net7.0\appsettings.json
+C:\Users\gym-lokal\Markus\Sibyllium\bin\Debug\net7.0\Sibyllium.staticwebassets.runtime.json
+C:\Users\gym-lokal\Markus\Sibyllium\bin\Debug\net7.0\Sibyllium.exe
+C:\Users\gym-lokal\Markus\Sibyllium\bin\Debug\net7.0\Sibyllium.deps.json
+C:\Users\gym-lokal\Markus\Sibyllium\bin\Debug\net7.0\Sibyllium.runtimeconfig.json
+C:\Users\gym-lokal\Markus\Sibyllium\bin\Debug\net7.0\Sibyllium.dll
+C:\Users\gym-lokal\Markus\Sibyllium\bin\Debug\net7.0\Sibyllium.pdb
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\Sibyllium.csproj.AssemblyReference.cache
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\Sibyllium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\Sibyllium.AssemblyInfoInputs.cache
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\Sibyllium.AssemblyInfo.cs
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\Sibyllium.csproj.CoreCompileInputs.cache
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\Sibyllium.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\Sibyllium.RazorAssemblyInfo.cache
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\Sibyllium.RazorAssemblyInfo.cs
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\staticwebassets\msbuild.Sibyllium.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\staticwebassets\msbuild.build.Sibyllium.props
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Sibyllium.props
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Sibyllium.props
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\scopedcss\bundle\Sibyllium.styles.css
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\scopedcss\projectbundle\Sibyllium.bundle.scp.css
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\Sibyllium.dll
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\refint\Sibyllium.dll
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\Sibyllium.pdb
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\Sibyllium.genruntimeconfig.cache
+C:\Users\gym-lokal\Markus\Sibyllium\obj\Debug\net7.0\ref\Sibyllium.dll
+C:\Users\gym-lokal\Markus\Sibyllium\bin\Debug\net7.0\products\Sussy Kette.json
+C:\Users\gym-lokal\Markus\Sibyllium\bin\Debug\net7.0\products\Stein.json
+C:\Users\gym-lokal\Markus\Sibyllium\bin\Debug\net7.0\products\Chakra Kette.json
+C:\Users\gym-lokal\Markus\Sibyllium\bin\Debug\net7.0\products\Energie Sterne.json
+C:\Users\gym-lokal\Markus\Sibyllium\bin\Debug\net7.0\products\Heil Stock.json
+C:\Users\gym-lokal\Markus\Sibyllium\bin\Debug\net7.0\products\Heilige Klangschale.json
+C:\Users\gym-lokal\Markus\Sibyllium\bin\Debug\net7.0\products\Mondbox.json
+C:\Users\gym-lokal\Markus\Sibyllium\bin\Debug\net7.0\products\Tumalin.json
+C:\Users\gym-lokal\Markus\Sibyllium\bin\Debug\net7.0\products\Ästetische Pyramide.json

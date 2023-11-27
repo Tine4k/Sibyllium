@@ -1,0 +1,14 @@
+@page
+@model ShopModel
+@{
+    ViewData["Title"] = "Shop";
+}
+<ul>
+@foreach (KeyValuePair<Product, int> pair in Model.products)
+{
+    <li>
+        <img src = "@pair.Key.ImagePath" width="50px">
+        @pair.Key.Name : @pair.Value
+    </li>
+}
+</ul>
